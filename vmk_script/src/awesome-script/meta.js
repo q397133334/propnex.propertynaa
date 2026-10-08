@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name        propertynaa-script
-// @namespace   propertynaa-script
+// @name        agent-choice-awards-script
+// @namespace   agent-choice-awards-script
 // @description process.env.description
-// @match       https://digitalservice.propertynaa.gov.sg/eservice/search
-// @run-at      document-idle
+// @match       https://www.agentofferings.propertyguru.com.sg/agent-choice-awards/*
+// @run-at      document-end
 // @grant       GM_addStyle
 // @grant       GM_xmlhttpRequest
 // @version     process.env.VERSION

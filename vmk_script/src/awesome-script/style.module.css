@@ -8,3 +8,11 @@
 .plus1 {
   @apply float-right;
 }
+
+.panel {
+  @apply flex items-center gap-2;
+}
+
+.select {
+  @apply bg-gray-700 text-white border border-gray-600 rounded px-2 py-1;
+}

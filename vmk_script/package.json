@@ -1,7 +1,7 @@
 {
-  "name": "propertynaa-script",
-  "version": "0.0.2",
-  "description": "scarp propertynaa data",
+  "name": "agent-choice-awards-script",
+  "version": "0.0.6",
+  "description": "scarp agent-choice-awards data",
   "author": "propnex.fg",
   "license": "MIT",
   "private": true,

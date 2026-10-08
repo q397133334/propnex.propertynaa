@@ -14,7 +14,7 @@ const extensions = ['.ts', '.tsx', '.mjs', '.js', '.jsx'];
 
 export default defineConfig(
   Object.entries({
-    'propertynaa-script': 'src/awesome-script/index.ts',
+    'agent-choice-awards-script': 'src/awesome-script/index.ts',
   }).map(([name, entry]) => ({
     input: entry,
     plugins: [
